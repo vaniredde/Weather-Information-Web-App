@@ -1,0 +1,5 @@
+body{margin:0;font-family:Arial;background:linear-gradient(135deg,#4facfe,#00f2fe);display:flex;justify-content:center;align-items:center;height:100vh}
+.card{background:rgba(255,255,255,.2);backdrop-filter:blur(10px);padding:25px;border-radius:16px;width:320px;text-align:center;color:#fff}
+input{padding:10px;width:70%;border:none;border-radius:8px}
+button{padding:10px 14px;border:none;border-radius:8px;cursor:pointer}
+#result{margin-top:20px}
